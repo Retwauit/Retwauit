@@ -1,11 +1,11 @@
 # Hello, I'm Kevin
 <a href="https://www.linkedin.com/in/retwauit/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recently certified CompTIA Security+ and Cisco Network Support technician with a profound interest in network and cybersecurity as well as an enthusiasm to solving complex problem.
+I am a recently certified CompTIA Security+ and Cisco Network Support technician with a profound interest in network and cybersecurity, as well as an enthusiasm to solving complex problem.
 
 ## Objective
 
-My journey to obtaining Security+ and Cisco Cybersecurity/Network Technician certifications has ignited a passion for cybersecurity. I am now eager to transition into the field, with a specific aim to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Technician certifications has ignited a passion for cybersecurity. I am now eager to transition into the field, with a specific aim to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
