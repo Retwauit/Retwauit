@@ -42,7 +42,8 @@ My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Te
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/7ec9e49d-406f-4974-a4ce-c6f9db309094/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+
 <img src="https://img.shields.io/badge/-Cisco%20Certified%20Support%20Technician%20Networking-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-000080?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
