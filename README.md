@@ -1,7 +1,8 @@
 # Hello, I'm Kevin
 <a href="https://www.linkedin.com/in/retwauit/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recently certified CompTIA Security+ and Cisco Network Support technician with a profound interest in network and cybersecurity, as well as an enthusiasm to solving complex problem.
+
+I am a recently certified CompTIA Security+ and Cisco Network Support Technician with a deep interest in network and cybersecurity, coupled with a strong enthusiasm for solving problems.
 
 ## Objective
 
@@ -40,9 +41,13 @@ My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Te
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Certified%20Support%20Technician%20Networking-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-000080?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+
+
 
 ## Projects
 - Detection Lab
