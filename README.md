@@ -2,11 +2,15 @@
 <a href="https://www.linkedin.com/in/retwauit/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recently certified CompTIA Security+ and Cisco Network Support Technician with a deep interest in network and cybersecurity, coupled with a strong enthusiasm for solving problems.
+I am a certified CompTIA Security+ and Cisco Network Support Technician with a deep interest in network and cybersecurity, coupled with a strong enthusiasm for solving problems.
+
+
 
 ## Objective
 
 My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Technician certifications has ignited a passion for cybersecurity. I am now eager to transition into the field, with a specific aim to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -20,13 +24,16 @@ My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Te
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+
 
 
 ### Endpoint
@@ -35,10 +42,12 @@ My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Te
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+
 
 ## Certifications
 <div>
