@@ -49,7 +49,7 @@ My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Te
 <a href="https://www.credly.com/badges/7077aae8-c1f7-4cac-9775-637890723d39/linked_in_profile">
     <img src="https://img.shields.io/badge/-Cybersecurity-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cybersecurity Badge"/>
 </a>
-<img src="https://img.shields.io/badge/-AWS-000080?&style=for-the-badge&logoColor=white" /> 
+
 
 
 
