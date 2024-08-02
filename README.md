@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/retwauit/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a certified CompTIA Security+ and Cisco Network Support Technician with a deep interest in network and cybersecurity, coupled with a strong enthusiasm for solving problems.
+I am a Certified CompTIA Security+ and Cisco Network Support Technician with a deep interest in network and cybersecurity, coupled with a strong enthusiasm for solving problems.
 
 
 
