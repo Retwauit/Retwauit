@@ -62,6 +62,43 @@ My journey that led me to obtain my Security+ and Cisco Cybersecurity/Network Te
 
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+# Cisco Packet Tracer Labs
+
+This repository contains various Cisco Packet Tracer labs designed to demonstrate networking concepts and configurations.
+
+## Contents
+
+### 1. Basic Configurations
+- Lab1: Basic router and switch setup
+  - Objectives: Configure basic device settings
+  - [Lab1.pkt](Basic-Configurations/Lab1.pkt)
+  - [Lab1-Config.txt](Basic-Configurations/Lab1-Config.txt)
+
+### 2. Routing Protocols
+- Lab2: OSPF Configuration
+  - Objectives: Implement OSPF routing protocol
+  - [Lab2.pkt](Routing-Protocols/Lab2.pkt)
+  - [Lab2-Config.txt](Routing-Protocols/Lab2-Config.txt)
+
+### 3. VLANs
+- Lab3: VLAN and Inter-VLAN Routing
+  - Objectives: Configure VLANs and set up inter-VLAN routing
+  - [Lab3.pkt](VLANs/Lab3.pkt)
+  - [Lab3-Config.txt](VLANs/Lab3-Config.txt)
+
+## Getting Started
+
+To open and use these labs, you will need Cisco Packet Tracer installed on your machine.
+
+1. Clone the repository: `git clone https://github.com/yourusername/Cisco-Packet-Tracer-Labs.git`
+2. Open the desired `.pkt` file in Cisco Packet Tracer.
+3. Follow the instructions in the README files for each lab.
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request with your changes and improvements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
